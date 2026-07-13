@@ -8,11 +8,7 @@ The dashboard combines interactive visualizations with KPI cards to identify rel
 
 ---
 
-## Dashboard Preview
 
-![Dashboard](dashboard.png)
-
----
 
 ## Dataset
 
